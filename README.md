@@ -1,6 +1,5 @@
-## Image Processing Project works with Jupyter Notebook and Python
+## Image Processing Projects with Jupyter Notebook and Python
 
-### 1. Coin Classification by segmentation and classification
-### 2. Hough Transform for line detection on boxes
-### 3. Tensorflow for image classification
-
+### 1. Coin segmentation and classification with traditional methods
+### 2. Hough Transformation for object edge detection
+### 3. Tensorflow image classification
